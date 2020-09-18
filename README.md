@@ -1,4 +1,4 @@
-# Video Chat Emotion Dectection
+# Video Chat Emotion Detection
 
 This Repo contains all files related to the creation of this blog post:
 
